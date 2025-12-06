@@ -7,9 +7,10 @@ tfenv/
 .vscode/
 
 # data / models (do NOT push large datasets or large checkpoints)
-data/
+
+
 features/
-checkpoints/
+
 outputs/
 
 # IDE / OS
@@ -18,3 +19,4 @@ Thumbs.db
 
 # logs
 *.log
+/data
