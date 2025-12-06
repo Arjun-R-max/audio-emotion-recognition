@@ -8,7 +8,9 @@ tfenv/
 
 # data / models (do NOT push large datasets or large checkpoints)
 
-
+data/*.wav
+data/raw/
+data/original/
 features/
 
 outputs/
